@@ -1,0 +1,3 @@
+/Users/Prince/Documents/GitHub/MiniWorld/deps/glfw/CMakeFiles/uninstall.dir
+/Users/Prince/Documents/GitHub/MiniWorld/CMakeFiles/MiniWorld.dir
+/Users/Prince/Documents/GitHub/MiniWorld/deps/glfw/src/CMakeFiles/glfw.dir
